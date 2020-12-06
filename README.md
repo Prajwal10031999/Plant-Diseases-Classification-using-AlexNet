@@ -14,6 +14,9 @@ AlexNet is an incredibly powerful model capable of achieving high accuracies on 
 The dataset can be downloaded from : <br />
 https://www.kaggle.com/vipoooool/new-plant-diseases-dataset <br />
 
+& the weights can be downloaded from: <br />
+https://www.kaggle.com/boulaalamcfk/modelalexnet-and-best-weights-9 <br />
+
 The output looks like : 
 ![Screenshot](plant1.png)
 ![Screenshot](plant2.png)
